@@ -241,7 +241,7 @@ position_smoothing_enabled = true
 position = Vector2(124, 28)
 
 [node name="Coin2" parent="." instance=ExtResource("4_lbhrr")]
-position = Vector2(336, 28)
+position = Vector2(338, 28)
 
 [node name="Coin5" parent="." instance=ExtResource("4_lbhrr")]
 position = Vector2(363, 28)
